@@ -105,7 +105,7 @@ The project follows a simplified directory structure, making it easy to manage b
 
 Here is a diagram showing the typical user flow for the Clothing Brand Marketplace:
 
-![User Flow Diagram](/images/Untitled-2024-11-29-2002.png)
+![User Flow Diagram](public/images/Untitled-2024-11-29-2003.png)
 
 This diagram highlights the key steps a user takes from visiting the homepage, browsing products, adding items to the cart, and completing the checkout process.
 
