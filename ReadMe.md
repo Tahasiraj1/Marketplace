@@ -110,12 +110,10 @@ Here is a diagram showing the typical user flow for the Clothing Brand Marketpla
 This diagram highlights the key steps a user takes from visiting the homepage, browsing products, adding items to the cart, and completing the checkout process.
 
 
-
 ## Test Case Documentation
 
 You can View the test cases in CSV format from the following link below: 
 [View Test Cases (CSV)](public/assets/test-cases.csv)
-
 
 
 ## Contributing
