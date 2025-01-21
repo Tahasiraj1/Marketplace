@@ -64,42 +64,7 @@ To run the Clothing Brand Marketplace locally, follow these steps:
 
 The project follows a simplified directory structure, making it easy to manage both the frontend and backend within a single Next.js project. Below is the structure of the application:
 
-/clothing-brand-marketplace
-├── /app
-│   ├── /api
-│   │   ├── products                    
-|   |   ├── route.ts                    # API routes for interacting with Sanity CMS
-│   │   ├── orders                      # API routes for interacting with MongoDb database
-|   |   ├── route.ts 
-│   │   └── ...                         # Other API routes for handling payments, etc.
-│   ├── products                        # Homepage displaying featured products
-│   ├── /[id].page.tsx                  # Dynamic page for displaying individual product details.
-|   ├── /category/[id].page.tsx         # Dynamic page for displaying products based on their category.
-│   ├── page.tsx                        # products page
-│   └── ...                             # Other pages like login, user profile, etc.
-├── /components
-|   ├── ui
-|   ├── layout
-│   ├── Cart.tsx                        # Cart component for handling users shopping cart
-│   ├── Checkout.tsx                    # Navigation bar component
-│   ├── ProductListing.tsx              # Product card displaying product details
-│   └── ...                             # Other reusable UI components
-├── /public
-│   ├── /images                         # Folder for static images
-|   ├── /svgs                           # Folder for svgs
-│   └── favicon.ico                     # Website icon
-├── /styles
-│   ├── globals.css                     # Global styles (e.g., Tailwind base styles)
-│   └── tailwind.css                    # Tailwind CSS configuration and custom styles
-├── /lib
-│   ├── prisma.ts                       # Prisma client for interacting with MongoDB
-│   ├── sanity.ts                       # Sanity CMS setup file for querying products
-|   ├── utils.ts
-│   └── ...                             # Other utility files (e.g., payment helpers)
-├── .env.local                          # Environment variables (API keys, secrets)
-├── next.config.js                      # Next.js configuration file
-├── package.json                        # Project dependencies and scripts
-└── README.md                           # Project overview and documentation
+![Project Structure](public/images/ProjectStructure.PNG)
 
 ## User Flow Diagram
 
