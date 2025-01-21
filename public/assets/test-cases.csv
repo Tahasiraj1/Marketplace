@@ -1,0 +1,14 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Remarks
+TC001,Validate Product listing page,Open products page > Verified products,Products displayed correctly.,Products displayed correctly.,Passed,High,Passed
+TC002,Validate Dynamic routing for product details,Click on a product > Verified it's details.,Product details displayed correctly.,Product details displayed correctly.,Passed,High,Passed
+TC003,Validate Dynamic routing for product categories,Navigate through different categories > Verified products based on their category,Products display based on their category.,Products display based on their category.,Passed,High,Passed
+TC004,Check Cart functionality,Add product to cart > Verify cart contents,"Cart items with correct color, size, and quantity.",Cart updates as expected.,Passed,Medium,Works as expected
+TC005,Check Checkout functionality,Navigated to checkout from cart page > Verified form submission & cart Items.,Valid form submission & Cart items display with subtotal amount.,Valid form submission & Cart items display with subtotal amount.,Passed,High,Handled gracefully
+TC006,Check Search products functionality,Searched for products by their names > Verfied search functionality.,"Correct product display, based on searched items.","Correct product display, based on searched items.",Passed,Low,Test successful
+TC007,Check Products filtering functionality,Open products page > Performed filtering of products by categories and prices.,Correct products display based on categories selected and filtered price.,Correct products display based on categories selected and filtered price.,Passed,High,Test successful
+TC008,Check Wishlist functionality,Toggled products in wishlist from products listing > Verified wishlist.,"Correct wish items display, in wishlist.","Correct wish items display, in wishlist.",Passed,High,Test successful
+TC009,Check Pagination functionality,Open products lisitng and > Vrfied pagination functionality.,products displayed based on products per page.,products displayed based on products per page.,Passed,Medium,No issues found
+TC010,Ensure responsiveness on mobile,Resize browser window > Check layout,Layout adjusts properly to screen size,	Responsive layout working as intended,Passed,Medium,Test successful
+TC011,Test API error handling,Disconnect API > Refresh page,Show fallback UI with error message,Error message shown,Passed,Medium,	Handled gracefully
+TC012,,,,,,,
+TC013,,,,,,,
