@@ -113,8 +113,8 @@ This diagram highlights the key steps a user takes from visiting the homepage, b
 
 ## Test Case Documentation
 
-You can download the test cases in CSV format from the following link below: 
-[Download Test Cases (CSV)](public/assets/test-cases.csv)
+You can View the test cases in CSV format from the following link below: 
+[View Test Cases (CSV)](public/assets/test-cases.csv)
 
 
 
