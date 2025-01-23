@@ -4,7 +4,7 @@
 
 The Clothing Brand Marketplace is an e-commerce platform designed to bring a wide variety of stylish and high-quality clothing brands to customers worldwide. This marketplace offers users a seamless shopping experience, allowing them to browse a diverse collection of clothing, select their desired products, and make secure purchases with ease. The platform also serves as a hub for clothing brands to showcase their latest collections and reach a larger customer base.
 
-##Live Demo: https://hackathon-2-flax.vercel.app/
+Live Demo: https://hackathon-2-flax.vercel.app/
 
 ## Features
 
